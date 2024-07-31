@@ -2,15 +2,15 @@
 
 We provide the checkpoints by anonymous download links. Please download the checkpoints from the following links.
 
-- a2d.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/a2d.pth
-- a2r.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/a2r.pth
-- a2w.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/a2w.pth
-- c2r.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/c2r.pth
-- d2a.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/d2a.pth
-- d2w.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/d2w.pth
-- p2r.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/p2r.pth
-- r2a.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/r2a.pth
-- r2c.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/r2c.pth
-- r2p.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/r2p.pth
-- w2a.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/w2a.pth
-- w2d.pth: https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/w2d.pth
+- [a2d.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/a2d.pth?x-oss-traffic-limit=819200)
+- [a2r.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/a2r.pth?x-oss-traffic-limit=819200)
+- [a2w.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/a2w.pth?x-oss-traffic-limit=819200)
+- [c2r.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/c2r.pth?x-oss-traffic-limit=819200)
+- [d2a.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/d2a.pth?x-oss-traffic-limit=819200)
+- [d2w.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/d2w.pth?x-oss-traffic-limit=819200)
+- [p2r.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/p2r.pth?x-oss-traffic-limit=819200)
+- [r2a.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/r2a.pth?x-oss-traffic-limit=819200)
+- [r2c.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/r2c.pth?x-oss-traffic-limit=819200)
+- [r2p.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/r2p.pth?x-oss-traffic-limit=819200)
+- [w2a.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/w2a.pth?x-oss-traffic-limit=819200)
+- [w2d.pth](https://couple-ckpts.oss-cn-wulanchabu.aliyuncs.com/w2d.pth?x-oss-traffic-limit=819200)
